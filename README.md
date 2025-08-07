@@ -1,7 +1,5 @@
 # WeChat - React Js Chat App
 
----
-
 ## Project Description
 
 Mainly focused on react js front-end development. I used css for styling. Also, this application used React Context API and redux for state management.
